@@ -1,0 +1,20 @@
+{
+  "product": [
+    {
+      "id": "833",
+      "name": "Gucci",
+      "category": "Bag",
+      "price": "5000",
+      "description": "This is very costly that anyone can't even afford.",
+      "imageUrl": "https://avatars.mds.yandex.net/i?id=1b89a9ee88d4138ab0f4f18229013dac15ccb5c3-9100075-images-thumbs&n=13"
+    },
+    {
+      "id": "371",
+      "name": "Sugar",
+      "category": "Lipstick",
+      "price": "200",
+      "description": "This is very moist and smooth texture and long lasting",
+      "imageUrl": "https://media.istockphoto.com/id/164505409/photo/red-lipstick.jpg?s=612x612&w=0&k=20&c=dnZ2e8AC3qH8FVStYzo-3MuU1XIXk-8xy63Hm-DhXbg="
+    }
+  ]
+}
